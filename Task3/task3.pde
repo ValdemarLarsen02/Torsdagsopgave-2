@@ -7,9 +7,9 @@ int b = 10;
 void setup() {
     if(a == 10 || b == 10 || (a + b) == 10) {
         println("Success!");
-} else {
+    } else {
         println("Failure!");
-}
+    }
 }
 
 
